@@ -505,7 +505,7 @@
 				},
 				"localPort" : {
 					"type" : "number",
-					"default" : 3030
+					"default" : 0
 				},
 				"remoteHostname" : {
 					"type" : "string",
@@ -513,7 +513,7 @@
 				},
 				"remotePort" : {
 					"type" : "number",
-					"default" : 3030
+					"default" : 0
 				},
 				"seed" : {
 					"type" : "number",
