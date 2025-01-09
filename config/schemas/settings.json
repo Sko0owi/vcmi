@@ -601,7 +601,7 @@
 				},
 				"loggers" : {
 					"type" : "array",
-					"default" : [ { "domain" : "global", "level" : "trace" }, { "domain" : "rng", "level" : "info" } ],
+					"default" : [ { "domain" : "global", "level" : "info" }, { "domain" : "rng", "level" : "info" } ],
 					"items" : {
 						"type" : "object",
 						"additionalProperties" : false,
